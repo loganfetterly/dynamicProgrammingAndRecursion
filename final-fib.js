@@ -44,6 +44,7 @@ function dynamicFib(n) {
 var cache = [];
 var comp = 40;
 
+console.log("We are going to find the Fib unmbers for: " + comp);
 console.time('fib')
 console.log(fib(comp));
 console.timeEnd('fib')
