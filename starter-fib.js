@@ -8,7 +8,7 @@ function fib(n) {
 
     // Return the sum of the two fibanacci numbers that are behind it.
     // CODE GOES HERE
-    }
+
 }
 
 // Here is the implementation with linear time
@@ -25,8 +25,6 @@ function dynamicFib(n) {
 
         // Return the value
         // CODE GOES HERE
-        }
-    }
 }
 
 var cache = [];
