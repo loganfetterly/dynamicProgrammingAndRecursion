@@ -3,7 +3,7 @@
 // Here is the implementation with time complexity of 2^n
 // Parameters: n is index in the series we wish to find
 function fib(n) {
-    // Use a switch statement to return the first 3 indexes else do recursion as the default
+    // Use a switch statement or conditionals to return the first 3 indexes else do recursion as the default
     // CODE GOES HERE
 
     // Return the sum of the two fibanacci numbers that are behind it.
@@ -17,7 +17,7 @@ function dynamicFib(n) {
     // if n already exists in the array return it
     // CODE GOES HERE
 
-        // Use a switch statement to return the first 3 indexes
+        // Use a switch statement or conditionals to return the first 3 indexes else do recursion as the default
         // CODE GOES HERE
 
         // CRITICAL: SAVE THE VALUE IN THE DATA STRUCTURE
